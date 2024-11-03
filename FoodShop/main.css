@@ -3,3 +3,19 @@
     margin: 0;
     box-sizing: border-box;
 }
+.navbar-brand{
+    font-size: 2rem;
+    color: darkred;
+}
+.navbar-brand:hover{
+    color: mediumspringgreen;
+    font-size: 1.5rem;
+}
+.nav-link{
+    margin-right: 10px;
+    margin-left: 10px;
+    text-transform: uppercase;
+}
+.nav-link:hover{
+    color: blueviolet;
+}
